@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+# -*- coding: utf-8 -*-
 
 # Your amazing program should sum the numbers given in each line, and one line for each question with the response. Note that some numbers might be negative.
 #
